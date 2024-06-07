@@ -1,3 +1,5 @@
+package medium;
+
 class CountSubtringsAndEndingWithGivenCharacter {
     public long countSubstrings(String s, char c) {
         int count = 0;

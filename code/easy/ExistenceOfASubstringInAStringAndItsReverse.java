@@ -1,3 +1,5 @@
+package easy;
+
 class ExistenceOfASubstringInAStringAndItsReverse {
     public boolean isSubstringPresent(String s) {
         Set<String> set= new HashSet<>();

@@ -1,3 +1,5 @@
+package easy;
+
 class KeepMultiplyingFoundValuesByTwo {
     public int findFinalValue(int[] nums, int original) {
         Arrays.sort(nums);

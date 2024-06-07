@@ -1,3 +1,5 @@
+package easy;
+
 class PascalSTriangle {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> res=new ArrayList<>();

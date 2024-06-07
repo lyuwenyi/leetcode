@@ -1,3 +1,5 @@
+package easy;
+
 class MinimumNumberOfOperationsToConvertTime {
     public int convertTime(String current, String correct) {
         String[] currents = current.split(":");
